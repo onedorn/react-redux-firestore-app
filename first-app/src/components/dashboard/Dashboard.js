@@ -2,6 +2,7 @@ import React from 'react'
 import Notifications from './Notifications'
 import ProjectList from '../projects/ProjectList'
 
+
 class Dashboard extends React.Component {
     render() {
         return (
